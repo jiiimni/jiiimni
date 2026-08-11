@@ -1,20 +1,20 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1E90FF&height=210&section=header&text=Jiiimni%20%7C%20Backend%20Developer&fontSize=42&fontColor=ffffff&desc=Java%20%7C%20Spring%20Boot%20%7C%20Data%20Consistency%20%7C%20AI%20Integration&descSize=15&descAlignY=68"
-    alt="Jiiimni Backend Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1E90FF&height=210&section=header&text=Lee%20Jimin%20%7C%20Backend%20Developer&fontSize=42&fontColor=ffffff&desc=Java%20%7C%20Spring%20Boot%20%7C%20Backend&descSize=15&descAlignY=68"
+    alt="Lee Jimin Backend Developer"
   />
 </div>
 
 <div align="center">
   <h2>About Me</h2>
   <p>
-    안녕하세요, 서버/백엔드 개발자 <b>이지민</b>입니다.<br />
-    Java와 Spring Boot를 기반으로 API 설계, 트랜잭션 경계, 동시성 제어를 학습하고 구현합니다.<br />
-    결제, 티켓팅, 백오피스, AI 추천 챗봇 프로젝트를 통해 서비스가 안정적으로 동작하는 구조를 고민해왔습니다.
+    안녕하세요. 백엔드 개발자 <b>이지민</b>입니다.<br />
+    Java와 Spring Boot를 중심으로 공부하고 프로젝트를 진행해 왔습니다.<br />
+    프로젝트에서는 결제, 예약, 관리자 기능과 AI 추천 기능을 맡았습니다.
   </p>
   <p>
-    기능 구현에서 멈추지 않고 <b>왜 이렇게 설계했는지</b>, <b>어떤 문제가 해결됐는지</b>를
-    테스트와 지표로 설명할 수 있는 개발자로 성장하고 있습니다.
+    처음 사용하는 기술은 작은 예제로 먼저 확인한 뒤 적용합니다.<br />
+    구현한 내용은 나중에 다시 봐도 이해할 수 있도록 정리하고, 필요한 부분에는 테스트를 추가합니다.
   </p>
 </div>
 
@@ -85,13 +85,13 @@
     <tr>
       <td align="center" width="50%">
         <b>For-Pets</b><br />
-        Gemini · RAG · SSE 기반 AI 펫시터 추천 챗봇<br />
+        펫시터 예약·결제와 Gemini · Qdrant 기반 AI 추천 기능<br />
         <sub>Spring AI, Gemini API, Qdrant, Redis, SSE, Micrometer</sub><br />
         <a href="https://github.com/Housekeeper-for-pets/for-pets-project">Repository</a>
       </td>
       <td align="center" width="50%">
         <b>Ticket JAVARA</b><br />
-        Redis 분산락과 결제 웹훅 검증 기반 티켓팅 백엔드<br />
+        결제 웹훅 검증과 쿠폰 상태 관리가 포함된 티켓팅 백엔드<br />
         <sub>Spring Boot, QueryDSL, Redis, Caffeine, Toss Payments, WebSocket</sub><br />
         <a href="https://github.com/6team-Plus-project-sparta/Ticket_JAVARA">Repository</a>
       </td>
@@ -99,7 +99,7 @@
     <tr>
       <td align="center" width="50%">
         <b>SimplePay</b><br />
-        PortOne 연동 일반·정기 결제와 멤버십 시스템<br />
+        PortOne 연동 일반·정기 결제와 구독·주문 관리<br />
         <sub>Spring Boot, Spring Security, Redis, PortOne, OAuth2, JUnit5</sub><br />
         <a href="https://github.com/no-more-bugs-seven/SPARTA_JAVA_SimplePay">Repository</a>
       </td>
